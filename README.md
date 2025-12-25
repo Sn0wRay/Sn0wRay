@@ -1,11 +1,11 @@
-# 👋 Hi, I'm [SnowRay]!
+# 👋 Hi, I'm SnowRay!
 
 ## 🚀 About Me
 
 Practice is the sole criterion for testing truth
 
 - Research Focus: [Red Team Operations, Golang Security Development]
-- Identity: [Cybersecurity Enthusiast, Bug Bounty Hunter]
+- Identity: [Cybersecurity Enthusiast, Ethical Hacker]
 - Open to Collaboration: [Security Development, Vulnerability Research]
 - Interests: [Gaming, Music]
 - Email: [snowray@duck.com]
