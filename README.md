@@ -9,6 +9,7 @@ Practice is the sole criterion for testing truth
 - Open to Collaboration: [Security Development, Vulnerability Research]
 - Interests: [Gaming, Music]
 - Email: [snowray@duck.com]
+- Blog：https://sn0wray.github.io/
 
 ## 📊 GitHub Stats
 
