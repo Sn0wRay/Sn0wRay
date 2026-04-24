@@ -8,7 +8,6 @@ Practice is the sole criterion for testing truth
 - Identity: [Cybersecurity Enthusiast, Ethical Hacker]
 - Open to Collaboration: [Security Development, Vulnerability Research]
 - Interests: [Gaming, Music]
-- Email: [snowray@duck.com]
 
 ## 📊 GitHub Stats
 
